@@ -1,0 +1,88 @@
+/*h2 {
+    background-color: #112031;
+    color: white;
+}*/
+.titulo_contacto {
+	font-size: 30px;
+	background-color: white;
+	align-items: center;
+	color: #112031;
+}
+.texto_contacto {
+	font-size: 20px;
+	font-style: normal;
+}
+.btn {
+	background-color: #112031;
+	color: white;
+	border-color: #112031;
+	&:hover {
+		background-color: aliceblue;
+		color: black;
+		border-color: #112031;
+	}
+}
+section {
+	.div_niveles {
+		transition: all 1s;
+		box-shadow: 5px 5px 5px #345B63;
+		&:hover {
+			height: 110%;
+			width: 110%;
+		}
+	}
+	div {
+		div {
+			div {
+				.card-body {
+					background-color: #112031;
+					color: white;
+					font-size: 20px;
+				}
+			}
+		}
+	}
+}
+
+.card-body {
+	h6 {
+		color: #112031;
+		font-size: 150%;
+	}
+}
+.card-text {
+	color: black;
+}
+#card-body {
+	background-color: white;
+	color: black;
+}
+
+div {
+	.card-img-overlay {
+		.card-text {
+			font-weight: bold !important;
+			background-color: #112031 !important;
+			color:white !important;
+
+		}
+	}
+}
+
+
+img.d-flex {
+	width: 300px;
+	height: 300px;
+}
+.media {
+	margin: 2rem;
+}
+.titulo_ins {
+	text-align: center;
+	font-size: 30px;
+	background-color: #112031;
+	color: white;
+}
+.img {
+	align-items: center;
+}
